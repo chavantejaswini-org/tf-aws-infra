@@ -1,0 +1,8 @@
+region      = "us-east-1"
+profile     = "profiledemo"
+db_username = "csye6225"
+db_password = "Pass1234"
+db_name     = "csye6225"
+ami_id      = "ami-0a43950b2d34e59f3"
+route53_zone_id = "Z04846972A3Z67P26H80R"
+domain_name = "demo"   
